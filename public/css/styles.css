@@ -1,0 +1,10 @@
+html, body {
+    padding: 20px;
+    background-color: beige;
+
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
