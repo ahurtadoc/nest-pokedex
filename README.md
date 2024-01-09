@@ -48,6 +48,12 @@ $ pnpm run test:cov
 docker compose up -d
 ```
 
+### Seed
+
+```
+http://localhost:3000/v1/seed
+```
+
 ## Stack
 
 - [NestJS](https://nestjs.com/)
